@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Students\2025-cpp\2025.10.04-Homework-1\Project20\source.cpp(8,8): error C2061: синтаксическая ошибка: идентификатор "K"
+C:\Students\2025-cpp\2025.10.04-Homework-1\Project20\source.cpp(8,19): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Students\2025-cpp\2025.10.04-Homework-1\Project20\source.cpp(13,5): error C2181: недопустимый else без парного if
