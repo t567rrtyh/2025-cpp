@@ -37,4 +37,5 @@ int main() {
     if (cnt == 0) {
         printf("Nobody\n");
     }
+    return 0;
 }
