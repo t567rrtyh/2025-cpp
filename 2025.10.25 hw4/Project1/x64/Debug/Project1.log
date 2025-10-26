@@ -1,0 +1,6 @@
+﻿  source.cpp
+C:\Students\2025.10.21 hw4\Project1\source.cpp(8,11): error C2131: выражение не определяется константой
+C:\Students\2025.10.21 hw4\Project1\source.cpp(8,11): message : сбой вызван чтением переменной вне срока ее существования
+C:\Students\2025.10.21 hw4\Project1\source.cpp(8,11): message : см. использование "n"
+C:\Students\2025.10.21 hw4\Project1\source.cpp(13,16): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "int [n]"
+C:\Students\2025.10.21 hw4\Project1\source.cpp(13,16): warning C4313: printf: конфликт "%d" в строке формата с аргументом 1 типа "int [n]"

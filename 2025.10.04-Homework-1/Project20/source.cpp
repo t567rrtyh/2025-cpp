@@ -5,16 +5,8 @@ int main() {
     int K = 0;
     scanf_s("%d", &N);
     scanf_s("%d", &K);
-    if K % N == 0 {
-        printf("%d ", K / N);
-        printf("%d ", K % N);
-        printf("%d", K % N);
-    }
-    else {
-        printf("%d ", K / N);
-        printf("%d ", K % N);
-        printf("%d", N - (K % N));
-    }
-    
+    printf("%d ", K / N);
+    printf("%d ", K % N);
+    printf("%d", (N - (K % N)) % N);
     return 0;
 }
