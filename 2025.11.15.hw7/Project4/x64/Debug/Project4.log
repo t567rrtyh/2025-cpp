@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Students\2025-cpp\2025.11.15.hw7\Project4\source.cpp(27): warning C4715: isprime: значение возвращается не при всех путях выполнения
+  Project4.vcxproj -> C:\Students\2025-cpp\2025.11.15.hw7\x64\Debug\Project4.exe
