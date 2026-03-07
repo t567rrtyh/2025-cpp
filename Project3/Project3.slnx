@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/" />
+  <Project Path="2level/2level.vcxproj" Id="5ddf3f79-2c68-4109-a899-7d994e15c84b" />
+  <Project Path="3level/3level.vcxproj" Id="f031da91-c171-4672-b080-cefae9c73333" />
+  <Project Path="Project3/Project3.vcxproj" Id="7a2adcf3-a9d0-49a3-aabc-0a911aa386bc" />
+</Solution>

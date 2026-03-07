@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Honor\\source\\repos\\2025-cpp\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2ADCF3-A9D0-49A3-AABC-0A911AA386BC}|Project3\\Project3.vcxproj|C:\\Users\\Honor\\source\\repos\\2025-cpp\\Project3\\Project3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2ADCF3-A9D0-49A3-AABC-0A911AA386BC}|Project3\\Project3.vcxproj|solutionrelative:Project3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F031DA91-C171-4672-B080-CEFAE9C73333}|3level\\3level.vcxproj|C:\\Users\\Honor\\source\\repos\\2025-cpp\\Project3\\3level\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F031DA91-C171-4672-B080-CEFAE9C73333}|3level\\3level.vcxproj|solutionrelative:3level\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DDF3F79-2C68-4109-A899-7D994E15C84B}|2level\\2level.vcxproj|C:\\Users\\Honor\\source\\repos\\2025-cpp\\Project3\\2level\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DDF3F79-2C68-4109-A899-7D994E15C84B}|2level\\2level.vcxproj|solutionrelative:2level\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\2025-cpp\\Project3\\3level\\Source.cpp",
+              "RelativeDocumentMoniker": "3level\\Source.cpp",
+              "ToolTip": "C:\\Users\\Honor\\source\\repos\\2025-cpp\\Project3\\3level\\Source.cpp",
+              "RelativeToolTip": "3level\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-07T09:51:56.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\2025-cpp\\Project3\\2level\\Source.cpp",
+              "RelativeDocumentMoniker": "2level\\Source.cpp",
+              "ToolTip": "C:\\Users\\Honor\\source\\repos\\2025-cpp\\Project3\\2level\\Source.cpp",
+              "RelativeToolTip": "2level\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-07T09:39:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\2025-cpp\\Project3\\Project3\\Source.cpp",
+              "RelativeDocumentMoniker": "Project3\\Source.cpp",
+              "ToolTip": "C:\\Users\\Honor\\source\\repos\\2025-cpp\\Project3\\Project3\\Source.cpp",
+              "RelativeToolTip": "Project3\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-07T09:37:36.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
